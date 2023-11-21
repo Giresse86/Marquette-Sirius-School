@@ -1,0 +1,65 @@
+
+header{
+    background-color: black;
+    height: 250px;
+}
+nav {
+    color: beige;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+p{
+    color: rgb(138, 138, 237);
+    text-align: justify;
+    font-size: 25px;
+    margin-left:30%;
+    margin-right: 20%;
+}
+h1{
+    color: beige;
+    text-align: center;
+    font-size: 25px;
+}
+.pr{
+    background-color: rgb(138, 138, 237);
+    color: black;
+    text-align: center;
+    width: 40%;
+    padding: 10px;
+    font-size: 40px;
+    margin-top: 80px;
+}
+.dx{
+    color: black;
+    text-align: justify;
+}
+.pied{
+    background-color: rgb(105, 105, 232);
+color: black;
+padding: 10px;
+text-align: center;
+}
+.tx{
+    background-color: rgb(8, 183, 183);
+    padding: 3px;
+    font-size: 25px;
+    color: beige;
+    margin-left:30%;
+    border: white solid 2px;
+   
+}
+.qt{
+background-color: rgb(105, 105, 232);
+padding: 3px;
+font-size: 25px;
+color: beige;
+border: white solid 2px;
+}
+footer{
+    background-color: black;
+    position: absolute;
+    width: calc(100% - 16px);
+    position: fixed;
+    bottom: 0px;
+}
